@@ -13,3 +13,4 @@ switch (day) {
   default:
     console.log("Unknown day");
 }
+If day matches one of the case values, that block executes. break prevents fall-through.
