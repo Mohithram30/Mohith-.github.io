@@ -5,3 +5,4 @@ if (num > 5) {
 } else {
   console.log("Number is 5 or less");
 }
+If num > 5 is false, the else block is executed.
