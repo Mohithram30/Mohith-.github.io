@@ -78,8 +78,8 @@ globalExecutionContext: {
      LexicalEnvironment: {
        EnvironmentRecord:  {
           type: "declarative",
-           firstNumber: undefined,
-           lastNumber: undefined,
+           firstMessage: undefined,
+           lastMessage: undefined,
          
          }
        
@@ -108,8 +108,8 @@ globalExecutionContext: {
                 EnvironmentRecord:  {
     
                    type: "declarative",
-                   firstNumber: '10',
-                   lastNumber: '20',
+                   firstMessage: "hi",
+                   lastMessage: "dude",
                   
                   }
                 
