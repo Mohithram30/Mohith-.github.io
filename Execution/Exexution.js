@@ -18,7 +18,7 @@ function getContactName() {
 globalExecutionContext: {
     LexicalEnvironment: {
       EnvironmentRecord:  {
-         type: "declarative",
+         type: "object",
           firstName: undefined,
           lastName: undefined,
         
@@ -29,7 +29,7 @@ globalExecutionContext: {
        }
        VariableEnvironment: {
          EnvironmentRecord:  {
-            type: "declarative",
+            type: "object",
              fullName: undefined,
              
            }
@@ -46,7 +46,7 @@ globalExecutionContext: {
            globalExecutionContext: {
              LexicalEnvironment: {
                EnvironmentRecord:  {
-                  type: "declarative",
+                  type: "object",
                    firstName: 'hey buddy',
                    lastName: 'hi dude',
                  
@@ -57,7 +57,7 @@ globalExecutionContext: {
                 }
                 VariableEnvironment: {
                   EnvironmentRecord:  {
-                     type: "declarative",
+                     type: "object",
                       fullName: 'firstname+lastName' ,
                       
                     }
