@@ -83,7 +83,7 @@ globalExecutionContext: {
          
          }
        
-       outer:"Global Execution context"
+       outer:"GlobalExecutionContext"
        ThisBinding: getContactName()
         }
         VariableEnvironment: {
@@ -93,7 +93,7 @@ globalExecutionContext: {
               
           }
           
-          outer:"Global Execution context"
+          outer:"GlobalExecutioncontext"
           ThisBinding: getContactName()
            }
 
@@ -113,7 +113,7 @@ globalExecutionContext: {
                   
                   }
                 
-                outer:"Global Execution context"
+                outer:"GlobalExecutioncontext"
                 ThisBinding: getContactName()
                  }
                  VariableEnvironment: {
@@ -122,7 +122,7 @@ globalExecutionContext: {
                        
                      }
                    
-                   outer:"Global Execution context"
+                   outer:"GlobalExecutionContext"
                    ThisBinding: getContactName()
                     }
        
